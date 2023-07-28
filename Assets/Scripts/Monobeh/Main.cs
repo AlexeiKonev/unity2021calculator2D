@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Main : MonoBehaviour
 {
   private  float sum = 0;
-  public  Button btnSum;
+  public  Button btnPlus, btnMinus, btnDesision, btnMultyply;
     void Start()
     {
         
