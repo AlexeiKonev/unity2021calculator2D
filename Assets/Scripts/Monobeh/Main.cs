@@ -1,36 +1,41 @@
-using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Main : MonoBehaviour
 {
-  private  float sum = 0;
-  public  Button btnPlus, btnMinus, btnDesision, btnMultyply;
+    public static Main instance;
+    private float sum = 0;
+   //строка которую потом разложим на операторы и числа для вычисления
+    public string screenText;
+    public TextMeshProUGUI screen;
     void Start()
     {
-        
+        if (instance == null)
+        {
+            instance = this;
+        }
+
     }
 
-    
+
     void Update()
     {
-        
+        //if (Input.GetKeyUp(KeyCode.Space)) { UpdateScreen(); }
     }
-
-  public void ShowSum()
+    public void UpdateScreen()
     {
-
+        screen.text = screenText;
     }
-    public float Sum(float[] arr)
+    //метод для кнопки равно "="
+    public void Result()
     {
-        
-        foreach (var item in arr)
+      foreach(var item in screenText)
         {
-            sum += item;
+            var x = item;
+
+            item.Equals('+');
             
-        }
-        return sum;
+        }    
     }
 }
