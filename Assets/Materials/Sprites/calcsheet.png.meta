@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: d789772839ac95043950c34e9560f96f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: calcsheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 676
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0de5f88ce25b4ca97d80d3325acd2
+      internalID: -785643075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 250
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d3a700562b5a42a26af4fb1f59ebc
+      internalID: 1715496869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 249.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36434be2b7fad2d4e8bea6ceed68f4b0
+      internalID: -966212732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 249.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9106985b525b4b4eb8cb4f93d8c2817
+      internalID: -1025077427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 249.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad612e2ee284389478eb9478af2ad4c5
+      internalID: 1578222709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 249.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baef7ab461c7ad41b66c0ce94a0cf07
+      internalID: -869830459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 249.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76337acfd3569bb4b937fded4b4db9c5
+      internalID: 116269157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 249.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a2de2d31b32f4f8a3dcddc7267354
+      internalID: 1414773984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df232883d0b63a458cc69a935f334f9
+      internalID: -222788439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 187.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944cc778de9bcf4f8beaf9cf5727a4d
+      internalID: 1142199721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 187.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956a237b15077db4cadf5b13bcc04cf1
+      internalID: 1038720515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 187.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ff5cb9130bb3941bd98b681210cde9
+      internalID: 1100003300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 187.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11407bc8613f645812bb607d787a97
+      internalID: -1585153942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 187.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7627c5fc28b73594cbb5995804e58926
+      internalID: 334449605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_27
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 187.7143
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150eda69aa5998c4e8415d89697def03
+      internalID: 84758807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 125.71429
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b60b7256d1793d42b02fc5d037ed593
+      internalID: 1449529215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 125.71429
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073724049945e2e46a2879851e8ed4ea
+      internalID: 349163766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 125.71429
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f9d44d724bea44ac4a82daecde043
+      internalID: 1858174587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 125.71429
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef769461ea0dd5e44a67aba4c7e872f9
+      internalID: -60564000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 125.71429
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565fd3cc5b93dc2488ad9dcf6780e4ee
+      internalID: 1619138154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_33
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 125.71429
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d741871536461d4e9271b85cfe4367b
+      internalID: 2127023631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_34
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 125.71429
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b4c04bf257b2f42ada86b92e9e8465
+      internalID: -2044013477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63.714287
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afc8ee5ac3631345a1cf9f943597b68
+      internalID: -1176465230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63.714287
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c87bcabd8c1e343a4059633429a503
+      internalID: -1070563943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 63.714287
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7504079d6a11ec849adeacdbc8e3ac90
+      internalID: -675392948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 63.714287
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4a008285e7b554b842fb7f36860352
+      internalID: -555837421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 63.714287
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b42accfcc0e14e9891be6af251061
+      internalID: 301131361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_40
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 63.714287
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24f1faa5001f34f941a5f53d74116c
+      internalID: 1837078169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_41
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 63.714287
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284be6c3f023acc409436dd07f81b9bc
+      internalID: 1943594746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1.7142868
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a756d201c996a9479fe64c7310aeb92
+      internalID: 402485398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1.7142868
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9da13b99e3262e49b8696b7251f0c27
+      internalID: -1138716836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1.7142868
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35196edb5461a3499ef9b147e4c638a
+      internalID: 2085120557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1.7142868
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9be60182381be4a93e8e1d9075db69
+      internalID: 1815259122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1.7142868
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ab0aa53de17443bb499f4d237dfff
+      internalID: 2039620992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1.7142868
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8506932f3fd82b748ae73ab05b0816cb
+      internalID: -164001074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calcsheet_48
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1.7142868
+        width: 96
+        height: 62.285713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ddfa3f4d1f5014eb8eebaa7f38d603
+      internalID: -519611783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      calcsheet_0: 1980573006
+      calcsheet_1: 679439855
+      calcsheet_10: -717564434
+      calcsheet_11: 1850401690
+      calcsheet_12: 1525283690
+      calcsheet_13: -785643075
+      calcsheet_14: 1715496869
+      calcsheet_15: -966212732
+      calcsheet_16: -1025077427
+      calcsheet_17: 1578222709
+      calcsheet_18: -869830459
+      calcsheet_19: 116269157
+      calcsheet_2: -1347132856
+      calcsheet_20: 1414773984
+      calcsheet_21: -222788439
+      calcsheet_22: 1142199721
+      calcsheet_23: 1038720515
+      calcsheet_24: 1100003300
+      calcsheet_25: -1585153942
+      calcsheet_26: 334449605
+      calcsheet_27: 84758807
+      calcsheet_28: 1449529215
+      calcsheet_29: 349163766
+      calcsheet_3: 366631703
+      calcsheet_30: 1858174587
+      calcsheet_31: -60564000
+      calcsheet_32: 1619138154
+      calcsheet_33: 2127023631
+      calcsheet_34: -2044013477
+      calcsheet_35: -1176465230
+      calcsheet_36: -1070563943
+      calcsheet_37: -675392948
+      calcsheet_38: -555837421
+      calcsheet_39: 301131361
+      calcsheet_4: -73605554
+      calcsheet_40: 1837078169
+      calcsheet_41: 1943594746
+      calcsheet_42: 402485398
+      calcsheet_43: -1138716836
+      calcsheet_44: 2085120557
+      calcsheet_45: 1815259122
+      calcsheet_46: 2039620992
+      calcsheet_47: -164001074
+      calcsheet_48: -519611783
+      calcsheet_5: 2032564930
+      calcsheet_6: 1551519943
+      calcsheet_7: 1484480920
+      calcsheet_8: -763005599
+      calcsheet_9: -1166314233
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
